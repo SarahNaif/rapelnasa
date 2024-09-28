@@ -2,8 +2,6 @@
 
 This project is a starter template for building 3D geospatial applications using Cesium, React, and Vite. *Dependencies are up to date as of September 22, 2024.*
 
-![Screenshot of the application](./screenshot.png)
-
 ## Getting Started
 
 ### Prerequisites
@@ -22,9 +20,3 @@ This project is a starter template for building 3D geospatial applications using
 To start the development server: 
 1. Run `npm run dev`.
 2. Open `http://localhost:3000` in your browser.
-
-### Building for Production
-
-To build the application for production, run `npm run build`.
-
-This will create an optimized build in the `dist` folder.
